@@ -1,0 +1,24 @@
+{
+  "name": "sass-workshop",
+  "version": "1.0.0",
+  "description": "this is intented for SASS Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geovica/Sass-Workshop.git"
+  },
+  "author": "Geovic Fagel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geovica/Sass-Workshop/issues"
+  },
+  "homepage": "https://github.com/Geovica/Sass-Workshop#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.4",
+    "gulp": "^4.0.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
