@@ -4,7 +4,7 @@
   "description": "this is intented for SASS Workshop",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "gulp style"
   },
   "repository": {
     "type": "git",
